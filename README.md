@@ -5,4 +5,4 @@ I try to accomplish this by combining a facial landmark prediction model along w
 
 All steps are explained in the Ipython notebook.
 
-Download the icml_face_data dataset from https://drive.google.com/file/d/1gV-yCKPdaljb7NK-PvyVbeNnfNZvCciD/view?usp=sharing
+Download the icml_face_data dataset from [here](https://drive.google.com/file/d/1gV-yCKPdaljb7NK-PvyVbeNnfNZvCciD/view?usp=sharing)
